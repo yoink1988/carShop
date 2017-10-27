@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteBase /carShop/server/api/shop/
+#RewriteBase /~user9/bookShop/server/api/shop/
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.*$ index.php

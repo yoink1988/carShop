@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/config.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Controllers/Auth.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Controllers/Cars.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Models/Users.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Controllers/Users.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Models/Orders.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Controllers/Orders.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Utils/Response.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/RestServer.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Models/Cars.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/lib/Models/Auth.php</file>
+            <file>file:/D:/xampp/htdocs/carShop/server/api/shop/index.php</file>
+        </group>
+    </open-files>
+</project-private>
